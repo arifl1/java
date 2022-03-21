@@ -1,7 +1,0 @@
-organization=arifl1
-projectKey=arifl1_sonar
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.27634
-dashboardUrl=https://sonarcloud.io/dashboard?id=arifl1_sonar
-ceTaskId=AX-rR2U0ytQNEonakvEh
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX-rR2U0ytQNEonakvEh
